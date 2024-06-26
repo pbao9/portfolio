@@ -1,13 +1,9 @@
-<script setup>
-import HeaderItem from './components/HeaderItem.vue'
-import FooterItem from './components/FooterItem.vue'
-import ContentView from './components/ContentView.vue'
-</script>
+<script setup></script>
 
 <template>
-  <HeaderItem> </HeaderItem>
-  <ContentView></ContentView>
-  <FooterItem></FooterItem>
+  <div class="flex justify-center items-center h-[100vh]">
+    <h1 class="font-bold uppercase text-[50px]">Web Portfolio Đang được design</h1>
+  </div>
 </template>
 
 <style scoped></style>

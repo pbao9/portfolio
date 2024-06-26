@@ -1,3 +1,3 @@
 <template>
-  <div>Đây là header</div>
+  <header></header>
 </template>
